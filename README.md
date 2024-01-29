@@ -348,6 +348,8 @@ $ composer run-script hydrate /path/to/open-ai-key 1024 tests/sornd1000.jsonl ou
 
 It populates the field `completion` from the `title` in the `JSON` object.
 
+## Links
+https://openhub.net/p/php-semantic-search
 
 
 ## Sponsors
